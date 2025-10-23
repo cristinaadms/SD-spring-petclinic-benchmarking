@@ -1,0 +1,4 @@
+Cenário,Total Requisições,Taxa de Falhas (%),Tempo Médio (ms),P95 (ms),P99 (ms),Throughput (req/s)
+Leve,71156,2.43,8.07,11.01,30.3,1.41
+Moderado,176854,8.9,18.71,23.78,32.01,3.47
+Pico,347250,58.99,16.31,17.2,112.79,13.65

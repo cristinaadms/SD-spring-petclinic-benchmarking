@@ -1,0 +1,4 @@
+Cenario,Request Count_sum,Failure Count_sum,Average Response Time_mean,Average Response Time_std,Requests/s_mean,Requests/s_std,Failures/s_mean,Failures/s_std,Failure Rate (%)
+Leve,71156,1730,8.072,7.272,1.415,2.577,0.034,0.086,2.431
+Moderado,176854,15744,18.705,85.103,3.471,6.362,0.309,1.088,8.902
+Pico,347250,204852,16.315,81.689,13.651,25.009,8.054,15.865,58.993
