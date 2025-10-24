@@ -37,11 +37,11 @@ Saídas (exemplos):
 ## Acesso ao PDF
 Para acessar o PDF do relatório, recomenda-se clonar este repositório:
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/cristinaadms/SD-spring-petclinic-benchmarking.git
 cd SD-spring-petclinic-benchmarking
 ```
 Depois, abra o arquivo PDF dentro do repositório (`artigo/ArtigoFinal.pdf`).
 
 ## Vídeo explicativo
-[Vídeo explicativo](COLOQUE_O_LINK_AQUI)
+[Vídeo explicativo](https://youtu.be/zwDe0mkzpBU)
 
